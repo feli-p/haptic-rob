@@ -1,0 +1,2 @@
+C:\OpenHaptics\Developer\3.5.0\examples\HL\console\CannedForceEffect\x64\Debug\CannedForceEffect.exe
+D:\Users\Felip\Documents\ITAM\Laboratorio de control\haptic-rob\sourceCode\CannedForceEffect\x64\Debug\CannedForceEffect.exe
