@@ -1,5 +1,3 @@
 ﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
   CannedForceEffect.c
-hdu.lib(hduError.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduError.obj)' or at 'D:\Users\Felip\Documents\ITAM\Laboratorio de control\haptic-rob\sourceCode\CannedForceEffect\Debug\HDU.pdb'; linking object as if no debug info
-hdu.lib(hduAfx.obj) : warning LNK4099: PDB 'HDU.pdb' was not found with 'hdu.lib(hduAfx.obj)' or at 'D:\Users\Felip\Documents\ITAM\Laboratorio de control\haptic-rob\sourceCode\CannedForceEffect\Debug\HDU.pdb'; linking object as if no debug info
   CannedForceEffect.vcxproj -> D:\Users\Felip\Documents\ITAM\Laboratorio de control\haptic-rob\sourceCode\CannedForceEffect\x64\Debug\CannedForceEffect.exe
